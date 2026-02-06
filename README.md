@@ -28,10 +28,10 @@ This repository contains a Python script that retrieves saved WiFi passwords on 
 - [MrWhiteHiru](https://github.com/MrWhiteHiru)
 
 ## YouTube Channel
-Check out the [Hiru Academy](https://youtube.com/@MR_WHITE_HIRU) YouTube channel for programming tutorials and more.
+Check out the [Hack Wizards](https://youtube.com/@HackWizards) YouTube channel for programming tutorials and more.
 
 ## TikTok
-Follow [MR WHITE HIRU OFC](https://www.tiktok.com/@mr_white_hiru_ofc) on TikTok for tech tips and coding insights.
+Follow [MR WHITE HIRU OFC](https://www.tiktok.com/@HackWizards) on TikTok for tech tips and coding insights.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
